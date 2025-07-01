@@ -1,7 +1,6 @@
 *{
     margin: 0;
     background-color:hsl(0, 0%, 8%) ;
-   
 }
 body{
      font-family: "Inter", sans-serif;
@@ -22,10 +21,6 @@ body{
     padding-right: 20px;
     border-radius: 5px;
     padding-bottom: 15px;
-    
-   
-
-
 }
 button{
     background-color:hsl(0, 0%, 20%) ;
@@ -37,12 +32,10 @@ button{
     padding-bottom: 7px;
     border-radius: 5px;
     transition-duration: 0.3s;
-
 }
 .buttons{
     display: grid;
     background-color:hsl(0, 0%, 12%)  ;
-
 }
 h2{
     color: white;
@@ -53,7 +46,6 @@ h2{
     color: white;
     background-color:hsl(0, 0%, 12%)  ;
     margin-bottom: 10px;
-    
 }
 img{
     height: 60px;
